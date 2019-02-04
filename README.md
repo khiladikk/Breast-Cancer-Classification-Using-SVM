@@ -33,7 +33,9 @@ A Benign tumor is not a cancerous tumor and Malignant tumor is a cancerous tumor
 
 2. Check the accuracy of the model.
 
-3. Predict whether a women has Benign tumor or Malignant tumor, if her Clump thickness is around 6, uniformity of cell size is 2, Uniformity of Cell Shape is 5, Marginal Adhesion is 3, Bland Chromatin is 9, Mitoses is 4, Bare Nuclei is 7, Normal Nuclei is 2 and Single Epithelial Cell Size is 2.
+3. Predict whether a women has Benign tumor or Malignant tumor, if her Clump thickness is around 6, 
+uniformity of cell size is 2, Uniformity of Cell Shape is 5, Marginal Adhesion is 3, 
+Bland Chromatin is 9, Mitoses is 4, Bare Nuclei is 7, Normal Nuclei is 2 and Single Epithelial Cell Size is 2.
 
 ```
 ## Dependencies:
@@ -80,10 +82,3 @@ It maximize the space between that line and both of these classes.
 It is hugely popular and can be alternative for the neural networks. From medical imaging to building regression model to study air quilty in urban areas.
 
 Time series prediction, fincial analysis, pattern recognition, page ranking algorithm and text recognition.
-
-
-
-
-
-
-
